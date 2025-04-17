@@ -1,0 +1,4 @@
+maybe implement a token refresh
+make a values of prices thats products in Kg in exibhist in the block of that product
+make a page about the rains, etc. and what a problems thats produtcs can have
+Rate Limiting e Proteção Contra Brute Force

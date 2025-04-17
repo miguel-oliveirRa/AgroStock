@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500">
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f5f7fa" rx="8" ry="8"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#2c3e50">AgroStock Project Structure</text>
+  
+  <!-- Tree Structure -->
+  <g font-family="Consolas, monospace" font-size="12" fill="#34495e">
+    
+    <!-- Back-End -->
+    <text x="100" y="80" font-weight="bold">Back-End/</text>
+    
+    <!-- API -->
+    <text x="120" y="100">├── API/</text>
+    <text x="140" y="120">│   └── Controllers/</text>
+    
+    <!-- Application -->
+    <text x="120" y="140">├── Application/</text>
+    <text x="140" y="160">│   ├── DTOs/</text>
+    <text x="140" y="180">│   ├── Interfaces/</text>
+    <text x="140" y="200">│   ├── MapperProfile/</text>
+    <text x="140" y="220">│   ├── UseCases/</text>
+    <text x="140" y="240">│   └── Services/</text>
+    <text x="160" y="260">    │   ├── Auth/</text>
+    <text x="160" y="280">    │   ├── Product/</text>
+    <text x="160" y="300">    │   └── Users/</text>
+    
+    <!-- Domain -->
+    <text x="120" y="320">├── Domain/</text>
+    <text x="140" y="340">│   ├── Entities/</text>
+    <text x="140" y="360">│   └── Enums/</text>
+    
+    <!-- Infrastructure -->
+    <text x="120" y="380">└── Infrastructure/</text>
+    <text x="140" y="400">    ├── Migrations/</text>
+    <text x="140" y="420">    └── Persistence/</text>
+    <text x="160" y="440">        ├── Context/</text>
+    <text x="160" y="460">        └── Repository/</text>
+    
+    <!-- Front-End -->
+    <text x="450" y="80" font-weight="bold">Front-End/</text>
+    
+    <text x="470" y="100">├── public/</text>
+    <text x="470" y="120">└── src/</text>
+    <text x="490" y="140">    ├── Types/</text>
+    <text x="490" y="160">    ├── Interfaces/</text>
+    <text x="490" y="180">    ├── Context/</text>
+    <text x="490" y="200">    ├── Hook/</text>
+    <text x="490" y="220">    ├── Pages/</text>
+    <text x="510" y="240">    │   ├── Home/</text>
+    <text x="510" y="260">    │   ├── Create/</text>
+    <text x="510" y="280">    │   ├── Update/</text>
+    <text x="510" y="300">    │   └── Login/</text>
+    <text x="490" y="320">    └── Service/</text>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <rect x="80" y="65" width="280" height="405" fill="none" stroke="#3498db" stroke-width="2" stroke-dasharray="5,5" rx="8" ry="8" opacity="0.7"/>
+  <rect x="430" y="65" width="210" height="265" fill="none" stroke="#2ecc71" stroke-width="2" stroke-dasharray="5,5" rx="8" ry="8" opacity="0.7"/>
+  
+  <!-- Legend -->
+  <rect x="560" y="420" width="16" height="8" fill="none" stroke="#3498db" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="580" y="428" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Back-End</text>
+  
+  <rect x="560" y="440" width="16" height="8" fill="none" stroke="#2ecc71" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="580" y="448" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Front-End</text>
+</svg>
