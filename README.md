@@ -100,7 +100,7 @@ npm run dev
 
 ## 📝 Licença
 
-Este projeto é de uso livre para fins de aprendizado, portfólio e demonstrações.
+Este projeto é de uso livre para fins de aprendizado e demonstrações.
 
 ## 🙋‍♂️ Autor
 
