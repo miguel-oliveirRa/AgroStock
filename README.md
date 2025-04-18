@@ -76,6 +76,7 @@ Se desejar, ajuste também os valores de `Issuer`, `Audience`, e `ExpireMinutes`
 cd Back-End
 dotnet restore
 dotnet ef database update
+cd API
 dotnet run
 ```
 
