@@ -104,4 +104,4 @@ Este projeto é de uso livre para fins de aprendizado, portfólio e demonstraç�
 
 ## 🙋‍♂️ Autor
 
-Feito com 💻 por Miguel — [LinkedIn](https://www.linkedin.com/in/miguel-oliveira-castro) | [GitHub](https://github.com/miguel-oliveirRa/)
+Feito por Miguel — [LinkedIn](https://www.linkedin.com/in/miguel-oliveira-castro) | [GitHub](https://github.com/miguel-oliveirRa/)
