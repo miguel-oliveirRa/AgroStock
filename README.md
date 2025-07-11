@@ -99,9 +99,6 @@ npm run dev
 | Admin@email.com | 12345678910 | Admin  |
 | User@email.com  | 123456789   | User   |
 
-## 📝 Licença
-
-Este projeto é de uso livre para fins de aprendizado e demonstrações.
 
 ## 🙋‍♂️ Autor
 
