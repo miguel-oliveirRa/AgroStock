@@ -8,7 +8,7 @@ Sistema de Gestão de Estoque Agroindustrial — um projeto full-stack com auten
 - Controle de quantidade (estoque) por produto
 - Autenticação de usuários (Admin e User padrão)
 - Back-end em .NET 9 com arquitetura em camadas
-- Front-end moderno com React + Vite + TailwindCSS
+- Front-end moderno com React + TypeScript + Vite + TailwindCSS
 - Uso de JWT para autenticação
 - Banco de dados SQL Server
 
