@@ -5,7 +5,7 @@ namespace Application.Services.Auth
 {
     public class JwtSettings
     {
-        public const string SecretKey = "MinhaChaveSecretaSuperSuperSuperSuperSuperSuperSuperSegura"; 
+        public const string SecretKey = "MinhaChaveSecreta"; 
         public static readonly SymmetricSecurityKey SecurityKey = new(Encoding.UTF8.GetBytes(SecretKey));
 
         public const string Issuer = "AgroStockAPI";
